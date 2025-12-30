@@ -1,6 +1,15 @@
 # 💫 About Me:
 I’m a B.Tech Information Technology student and a Flutter Developer with a strong interest in building clean, scalable, and user-friendly mobile applications. I enjoy turning ideas into real-world apps using modern technologies.
 
+📱 Projects:
+
+Book-Bazaar App – An online book buying & selling application with real-time data handling
+Vibex App – A chat application built using Flutter and GetX for efficient state management
+
+🎓 Currently in the last semester of my degree and actively open to internship opportunities, where I can learn, contribute, and grow as a developer.
+
+💡 I’m always excited to explore new technologies, improve my problem-solving skills, and collaborate on meaningful projects.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.vishal07@gmail.com) 
